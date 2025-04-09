@@ -17,5 +17,3 @@ Just open the website in your browser and start encrypting or decrypting text ri
 
 > Perfect for beginners who want to understand how encryption works or anyone looking for a quick and easy encryption tool.
 
-## 📁 Project Structure
-
